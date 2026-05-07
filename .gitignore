@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+data/chroma/
+data/sessions/
+.env
+.venv/
+venv/
+.idea/
+.vscode/
+*.egg-info/
+dist/
+docs/
